@@ -1,0 +1,31 @@
+usa
+canada
+mexico
+brazil
+argentina
+chile
+peru
+france
+germany
+italy
+spain
+portugal
+netherlands
+belgium
+switzerland
+sweden
+norway
+finland
+denmark
+uk
+russia
+china
+japan
+south korea
+india
+australia
+new zealand
+south africa
+egypt
+nigeria
+israel
